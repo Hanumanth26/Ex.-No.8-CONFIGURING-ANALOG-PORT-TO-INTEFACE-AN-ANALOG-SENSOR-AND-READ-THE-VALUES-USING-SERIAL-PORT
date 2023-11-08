@@ -149,10 +149,7 @@ This module also includes a potentiometer that will fix the threshold value, & t
 
 
 ##  Program 
-```
-Name: Karthikeyan R
-Reg.NO: 212222240046
-```
+
 ```
 #include "main.h"
 #include"stdio.h"
